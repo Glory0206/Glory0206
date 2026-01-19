@@ -22,7 +22,7 @@
 
 <br/>
 
-## 📂 Portfolio
+## 📂 Project
 
 ---
 
